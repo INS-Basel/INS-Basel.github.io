@@ -1,2 +1,2 @@
 # INS-Basel.github.io
-Website repository
+website repository https://ins-basel.github.io
